@@ -2,9 +2,9 @@
 using namespace std;
 
 int main() {
-  string s = FangYuan
+  string s = "Gu Yue Fang Yuan";
 
-  cout << s << "," << "True otherworldly demon"
+  cout << s << ",   " << "The true otherworldly demon";
 
   return 0;  
 
